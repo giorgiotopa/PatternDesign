@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a703b7b9-add5-41df-84fc-c07bff953a53" name="Changes" comment="">
+    <list default="true" id="a703b7b9-add5-41df-84fc-c07bff953a53" name="Changes" comment="Esercizio 1 Completato">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/InfoAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/MainAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Dipartimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/DipartimentoFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/DipartimentoMatematica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/DipartimentoTecnologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Autore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Capitolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/MainComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Pagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Sezione.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +45,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.MainAdapter.executor": "Run",
+    "Application.MainComposite.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -78,7 +70,20 @@
       <option name="presentableId" value="Default" />
       <updated>1708521822857</updated>
     </task>
+    <task id="LOCAL-00001" summary="Esercizio 1 Completato">
+      <option name="closed" value="true" />
+      <created>1708524722160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708524722160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio 1 Completato" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1 Completato" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
